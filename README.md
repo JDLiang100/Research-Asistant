@@ -1,4 +1,4 @@
-###.env file 
+### 1. env file 
 Create a file named `.env` in the same folder and add your key:
 ```env
 GOOGLE_API_KEY=your_key_here_AIza...
