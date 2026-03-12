@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+langchain-qdrant
+qdrant-client
+duckduckgo-search
+ddgs
+ragas
+pandas
+datasets
+python-dotenv
